@@ -1,0 +1,13 @@
+torch
+torchaudio
+torchvision
+librosa
+wav2clip
+numpy
+matplotlib
+tqdm
+pytorch_lightning
+pathvalidate
+transformers
+pyloudnorm
+julius
