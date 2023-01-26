@@ -1,8 +1,7 @@
-# text-driven-afx-control
+# timbreclip-preview
 
-## Setup
+This repository is a preview of the TimbreCLIP model. Note that this is a work in progress and is not yet ready for production use.
 
-- install requirements with `pip install -r requirements.txt`
-- clone DeepAFX-st with `git clone https://github.com/adobe-research/DeepAFx-ST.git`
-- install dependencies for DeepAFX-st by navigating to the cloned directory and running `pip install --pre -e .`
-- remove @torch.jit.script decorator in the audio processors you want to use
+Check out demo.py for a usage example.
+
+For more info see the [arxiv paper](https://arxiv.org/abs/2211.11225). Demonstration of applications are available [here](https://aquatic-singer-b25.notion.site/TimbreCLIP-Connecting-Timbre-Text-and-Images-a39a8fab48ef47488e9e4fed23061429).
